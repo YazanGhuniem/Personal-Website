@@ -1,0 +1,160 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Welcome</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<a href="index.html" class="logo"><strong>Welcome</strong> <span></span></a>
+						<nav>
+							<!--<a href="#menu">Menu</a> -->
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<!--<nav id="menu">
+						<ul class="links">
+							<li><a href="index.html">Home</a></li>
+							<li><a href="landing.html">Landing</a></li>
+							<li><a href="generic.html">Generic</a></li>
+							<li><a href="elements.html">Elements</a></li>
+						</ul>
+						<ul class="actions stacked">
+							<li><a href="#" class="button primary fit">Get Started</a></li>
+							<li><a href="#" class="button fit">Log In</a></li>
+						</ul>
+					</nav> -->
+
+				<!-- Banner -->
+					<section id="banner" class="major">
+						<div class="inner">
+							<header class="major">
+								<h1>Hi, my name is Yazan Ghuniem</h1>
+							</header>
+							<div class="content">
+								<p>This is my personal website<br />
+								Get to know me and take a look at my socials!</p>
+								<ul class="actions">
+									<li><a href="#one" class="button next scrolly">Get Started</a></li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- One -->
+							<section id="one" class="tiles">
+								<article>
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3> Get to know me...</a></h3>
+										<p>I am a sophmore studying Computer Science at the university of Cincinnati. I landed on Computer Science 
+											regarding my technical passion I've had since childhood, and so far, I'm enjoying it. Aside from my 
+											professional side of life, I really like to play soccer, watch movies, and work out!
+										</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="https://www.codecademy.com" class="link">Where it started...</a></h3>
+										<p>I started my programming career through codecademy, typed my first Hello World, learned my first lanuage, and completed my first course.
+											as of right now I can confidently say I am profecient in Python, C++, HTML/CSS, JavaScript, SQL, and React.
+									
+										</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="https://app.theheadstarter.com" class="link">Where it's going...</a></h3>
+										<p>As of right now, I am persuing a 7-week fellowship with a startup AI company called Headstarter. 
+											While it may not sound like much, it is in fact a great way for me to really take a big step
+											in the right direction for the final goal of becoming a Software Engineer. 
+										</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3>Until next time...</a></h3>
+										<p>I hope you enjoyed a brief introduction to what my life has to offer, I'll be sure
+											to keep you all updated. Feel free to check out my Linkedin and Github Below!
+										</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="https://www.linkedin.com/in/yazan-ghuniem/" class="link">LinkedIn</a></h3>
+										<p>Send me a connect request!</p>
+									</header>
+								</article>
+								<article>
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<header class="major">
+										<h3><a href="https://github.com/YazanGhuniem" class="link">GitHub</a></h3>
+										<p>Check out my projects!</p>
+									</header>
+								</article>
+							</section>
+
+						<!-- Two -->
+							<section id="two">
+								<div class="inner">
+									<header class="major">
+										<h2>Contact Me</h2>
+									</header>
+									<p>Feel Free to contact me at:</p>
+									<p>Email: Yazanghuniem2005@gmail.com</p>
+									<p>Phone: 513-773-4011</p>
+									<p>Instagram:Ymghuniem</p>
+									
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Contact -->
+					
+			
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
